@@ -25,3 +25,4 @@ using [TeXiFy IDEA](https://plugins.jetbrains.com/plugin/9473-texify-idea).
 (With the dependencies locally installed)
 The formatter used is [prettier-plugin-latex](https://www.npmjs.com/package/prettier-plugin-latex), as you can
 see its not perfect, but then the formatting is not up for discussion.
+
